@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lxlbxn
-- 👀 I’m interested in Val and AI
-- 🌱 I’m currently learning Comp Sci
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Games Development and Design
+- 🌱 I’m currently studying an undergrad at MMU for Games Development
+- 💞️ I’m looking to collaborate on Gamejams and other fun short projects
 - 📫 How to reach me yopi#9469
 
 <!---
